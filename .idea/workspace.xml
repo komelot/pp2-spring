@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/Lab 2/Icon&#10;" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab 3/Icon&#10;" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/Lab5 row.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/Lab5 row.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +57,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Classes 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classes 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classes 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pp2class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pp2quiz1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kamilasolomatina/Desktop/pp2-spring&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Classes 2.executor": "Run",
+    "Python.Classes 3.executor": "Run",
+    "Python.Classes 4.executor": "Run",
+    "Python.Classes.executor": "Run",
+    "Python.Functions 1.executor": "Run",
+    "Python.RegEx.executor": "Run",
+    "Python.Strings.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.math.executor": "Run",
+    "Python.pp2class.executor": "Run",
+    "Python.pp2quiz1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kamilasolomatina/Desktop/pp2-spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +105,7 @@
       <workItem from="1707845406388" duration="838000" />
       <workItem from="1708514385452" duration="5774000" />
       <workItem from="1708578866213" duration="3256000" />
-      <workItem from="1709121060078" duration="203000" />
+      <workItem from="1709121060078" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2">
       <option name="closed" value="true" />
@@ -177,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708580838573</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main' into main">
+      <option name="closed" value="true" />
+      <created>1709121298604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709121298604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main' into main">
+      <option name="closed" value="true" />
+      <created>1709121393019</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709121393020</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +228,7 @@
     <SUITE FILE_PATH="coverage/pp2_spring$date.coverage" NAME="date Coverage Results" MODIFIED="1708580248531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/pp2_spring$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1706693033579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 1" />
     <SUITE FILE_PATH="coverage/pp2_spring$pp2class.coverage" NAME="pp2class Coverage Results" MODIFIED="1707380179949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp2_spring$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1709121959359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/pp2_spring$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1706698596614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
   </component>
 </project>
