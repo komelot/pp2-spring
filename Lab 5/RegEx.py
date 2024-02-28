@@ -1,6 +1,6 @@
 import re
 
-list_file = open("Lab5 row (1).txt").readlines()
+list_file = open("Lab5 row.txt").readlines()
 
 
 # 1
