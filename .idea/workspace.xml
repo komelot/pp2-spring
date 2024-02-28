@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d36186-b174-48f5-8d76-b288c6a4df4b" name="Changes" comment="Merge remote-tracking branch 'origin/main' into main">
-      <change afterPath="$PROJECT_DIR$/Lab 4/js/js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 4/js/sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 4/math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 3/Icon&#10;" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,31 +56,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Classes 2.executor": "Run",
-    "Python.Classes 3.executor": "Run",
-    "Python.Classes 4.executor": "Run",
-    "Python.Classes.executor": "Run",
-    "Python.Functions 1.executor": "Run",
-    "Python.Strings.executor": "Run",
-    "Python.date.executor": "Run",
-    "Python.math.executor": "Run",
-    "Python.pp2class.executor": "Run",
-    "Python.pp2quiz1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kamilasolomatina/Desktop/pp2-spring",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Classes 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pp2class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pp2quiz1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kamilasolomatina/Desktop/pp2-spring&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,7 +102,8 @@
       <workItem from="1706692878459" duration="15599000" />
       <workItem from="1707845406388" duration="838000" />
       <workItem from="1708514385452" duration="5774000" />
-      <workItem from="1708578866213" duration="1855000" />
+      <workItem from="1708578866213" duration="3256000" />
+      <workItem from="1709121060078" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2">
       <option name="closed" value="true" />
@@ -167,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708580019360</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main' into main">
+      <option name="closed" value="true" />
+      <created>1708580838573</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708580838573</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
