@@ -9,8 +9,15 @@
       <change afterPath="$PROJECT_DIR$/Lab 1/Icon&#10;" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab 2/Icon&#10;" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab 3/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 7/Ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 7/Clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 7/Music.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/racist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheatsheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kama.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pp2quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pp2quizz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/Lab5 row.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/Lab5 row.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +76,9 @@
     "Python.date.executor": "Run",
     "Python.math.executor": "Run",
     "Python.pp2class.executor": "Run",
+    "Python.pp2quiz.executor": "Run",
     "Python.pp2quiz1.executor": "Run",
+    "Python.racist.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -105,7 +114,13 @@
       <workItem from="1707845406388" duration="838000" />
       <workItem from="1708514385452" duration="5774000" />
       <workItem from="1708578866213" duration="3256000" />
-      <workItem from="1709121060078" duration="1690000" />
+      <workItem from="1709121060078" duration="1724000" />
+      <workItem from="1709753616853" duration="4116000" />
+      <workItem from="1710479517458" duration="596000" />
+      <workItem from="1710618924884" duration="603000" />
+      <workItem from="1711689278884" duration="1202000" />
+      <workItem from="1711692392533" duration="597000" />
+      <workItem from="1712392389981" duration="1718000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2">
       <option name="closed" value="true" />
@@ -195,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709121393020</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main' into main">
+      <option name="closed" value="true" />
+      <created>1709131950220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709131950220</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main' into main">
+      <option name="closed" value="true" />
+      <created>1709753913828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709753913828</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,13 +253,15 @@
     <SUITE FILE_PATH="coverage/pp2_spring$Classes_3.coverage" NAME="Classes 3 Coverage Results" MODIFIED="1706708960810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/pp2_spring$math.coverage" NAME="math Coverage Results" MODIFIED="1708515082286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/pp2_spring$Functions_1.coverage" NAME="Functions 1 Coverage Results" MODIFIED="1706768856251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
+    <SUITE FILE_PATH="coverage/pp2_spring$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1706693033579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 1" />
+    <SUITE FILE_PATH="coverage/pp2_spring$racist.coverage" NAME="racist Coverage Results" MODIFIED="1712394228718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 8" />
     <SUITE FILE_PATH="coverage/pp2_spring$pp2quiz1.coverage" NAME="pp2quiz1 Coverage Results" MODIFIED="1707370749567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pp2_spring$pp2quiz.coverage" NAME="pp2quiz Coverage Results" MODIFIED="1709793909347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pp2_spring$Classes_4.coverage" NAME="Classes 4 Coverage Results" MODIFIED="1706709071934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/pp2_spring$Classes_2.coverage" NAME="Classes 2 Coverage Results" MODIFIED="1706708954780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/pp2_spring$date.coverage" NAME="date Coverage Results" MODIFIED="1708580248531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
-    <SUITE FILE_PATH="coverage/pp2_spring$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1706693033579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 1" />
     <SUITE FILE_PATH="coverage/pp2_spring$pp2class.coverage" NAME="pp2class Coverage Results" MODIFIED="1707380179949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pp2_spring$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1709121959359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
+    <SUITE FILE_PATH="coverage/pp2_spring$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1709131955391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/pp2_spring$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1706698596614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
   </component>
 </project>
